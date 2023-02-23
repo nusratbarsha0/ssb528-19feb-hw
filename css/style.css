@@ -1,0 +1,143 @@
+.weapper{
+	width: 40%;
+	margin: 0 auto;
+	border: 5px solid black;
+}
+#first_name,#last_name,#email,#gender{
+	height: 25px;
+	padding: 15px;
+	font-size: 40pxSpx;
+
+}
+.message{
+	font-size: 18px;
+	padding: 11px;
+}
+
+
+
+.box{
+	width: 100px;
+	height: 100px;
+	
+}
+
+.green{
+	background-color: white;
+	margin: 50px;
+	border: 10px solid red;
+	padding: 50px;
+}
+
+.blue{
+	background-color: blue;
+}
+
+.header{
+	height: 70px;
+	background-color: red;
+	margin: 50px;
+}
+
+.header1{
+	min-height: 70px;
+	background-color: yellow;
+}
+.header2{
+	max-height: 70px;
+	background-color: blue;
+
+}
+
+.container{
+	overflow: hidden;
+
+
+}
+
+.blog{
+	width: 40%;
+	background-color: green;
+	height: 200px;
+	float: left;
+
+}
+
+.contact{
+	width: 60%;
+	background-color: red;
+	height: 200px;
+	float: right;
+}
+
+
+.container2{
+	overflow: hidden;
+
+}
+ 
+
+.item{
+	height: 100px;
+	width: 33.33%;
+	float: left;
+
+} 
+
+.aqua{
+	background-color: aqua;
+
+}
+
+.pink{
+	background-color: pink;
+
+}
+
+.gray{
+	background-color: gray;
+
+
+}
+.footer{
+	height: 100px;
+	background-color: black;
+}
+
+.new11{
+	background-color: maroon;
+	height: 60px;
+	
+}
+.container3{
+	overflow: hidden;
+}
+.item1{
+	width: 16.66%;
+	height: 100px;
+	float: left;
+
+}
+.orange{
+	background-color: orange;
+}
+.blue{
+	background-color: blue;
+}
+.aqua{
+	background-color: aqua;
+}
+.red{
+	background-color: red;
+}
+.purple{
+	background-color: purple;
+}
+.black{
+	background-color: black;
+}
+.footer1{
+	background-color: magenta;
+	height: 100px;
+}
+
